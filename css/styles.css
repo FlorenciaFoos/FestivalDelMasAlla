@@ -29,6 +29,7 @@ html {
   font-family: var(--font_title);
 }
 
+ 
 h1,
 h2,
 h3 {
@@ -247,4 +248,8 @@ button:hover {
 
 .social {
   font-size: 1.8rem;
+}
+
+#mapa{
+  height: 72vh;
 }
